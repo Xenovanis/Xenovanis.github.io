@@ -2,8 +2,9 @@ body,
 html {
   width: 100%;
   height: 100%;
-  font-family: 'Montserrat', sans-serif;
-  background: url(header.jpg) no-repeat center center fixed; 
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Lacquer', cursive;
+  background: url(header.png) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -13,11 +14,7 @@ h1{
   color: white;
   font-size: 3em;
 }
-hr{
-  border-color: #F05F44;
-  border-width: 3px;
-  max-width: 65px;
-}
+
 .btn{
   font-weight: 700;
   border-radius: 300px;
@@ -36,6 +33,6 @@ hr{
 
 
 .buffer{
-  height:10em;
+  
 }
 
